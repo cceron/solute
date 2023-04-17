@@ -1,4 +1,6 @@
 DOCUMENTACION DE MINI PROYECTO "SOLUTE" - PRUEBA SOLUTORIA
+
+RENOMBRAR EL PROYECTO DESCARGADO O CLONADO A  "SOLUTE"
 	-	URL : http://localhost/solute
 	-	Credenciales :	
 			user	:	cristianceron.2.0@gmail.com
