@@ -1,0 +1,25 @@
+DOCUMENTACION DE MINI PROYECTO "SOLUTE" - PRUEBA SOLUTORIA
+	-	URL : http://localhost/solute
+	-	Credenciales :	
+			user	:	cristianceron.2.0@gmail.com
+			clave	:	sysadmin
+	-	Caracteristicas de proyecto:
+			PHP v8.1
+			MariaDB 10.065
+				Credeciales :
+					Usuario : root
+					Clave 	: sin clave
+			AJAX - Fetch
+			Bootstrap 5
+			Codeigniter 3
+			Servidor local Windows 10
+
+	- Aplicaciones y/o Programas utilizados:
+		Navicat 12
+		PhpMyAdmin
+		Postman
+		Sublime Text 
+		GIT
+		Wamp Server
+
+
